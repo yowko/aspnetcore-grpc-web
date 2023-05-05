@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcService", "GrpcService\GrpcService.csproj", "{44AF2FCE-C75F-4A87-8F35-B99947C5A679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcClient", "GrpcClient\GrpcClient.csproj", "{6136F225-7610-42E8-BAFA-BD465B428C57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44AF2FCE-C75F-4A87-8F35-B99947C5A679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44AF2FCE-C75F-4A87-8F35-B99947C5A679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44AF2FCE-C75F-4A87-8F35-B99947C5A679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44AF2FCE-C75F-4A87-8F35-B99947C5A679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6136F225-7610-42E8-BAFA-BD465B428C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6136F225-7610-42E8-BAFA-BD465B428C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6136F225-7610-42E8-BAFA-BD465B428C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6136F225-7610-42E8-BAFA-BD465B428C57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
